@@ -1,0 +1,4000 @@
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "206",
+    "rejected": "225",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "236",
+    "rejected": "233",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "224",
+    "rejected": "216",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "230",
+    "rejected": "201",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "246",
+    "rejected": "216",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "231",
+    "rejected": "201",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "226",
+    "rejected": "214",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "224",
+    "rejected": "229",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "204",
+    "rejected": "245",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "209",
+    "rejected": "249",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "207",
+    "rejected": "235",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "212",
+    "rejected": "221",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "226",
+    "rejected": "216",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "222",
+    "rejected": "225",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "217",
+    "rejected": "249",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "212",
+    "rejected": "220",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "217",
+    "rejected": "238",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "211",
+    "rejected": "238",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "201",
+    "rejected": "205",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "249",
+    "rejected": "220",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "227",
+    "rejected": "220",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "245",
+    "rejected": "205",
+    "reason": "Reached further in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "235",
+    "rejected": "220",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "210",
+    "rejected": "234",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "220",
+    "rejected": "203",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "221",
+    "rejected": "245",
+    "reason": "Correct object was picked up.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "216",
+    "rejected": "227",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "233",
+    "rejected": "225",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "238",
+    "rejected": "201",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "225",
+    "rejected": "201",
+    "reason": "Smoother trajectory and further progress.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "249",
+    "rejected": "233",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "failure_failure",
+    "chosen": "235",
+    "rejected": "205",
+    "reason": "Reached further in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "206",
+    "rejected": "239",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "240",
+    "rejected": "219",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "224",
+    "rejected": "228",
+    "reason": "More efficient with fewer steps and stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "228",
+    "rejected": "226",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "226",
+    "rejected": "237",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "244",
+    "rejected": "211",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "236",
+    "rejected": "237",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "236",
+    "rejected": "246",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "215",
+    "rejected": "224",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "230",
+    "rejected": "243",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "230",
+    "rejected": "213",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "247",
+    "rejected": "243",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "224",
+    "rejected": "240",
+    "reason": "More efficient with fewer steps and stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "240",
+    "rejected": "232",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "207",
+    "rejected": "228",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "240",
+    "rejected": "247",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_success",
+    "chosen": "207",
+    "rejected": "236",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "460",
+    "rejected": "490",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "471",
+    "rejected": "456",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "469",
+    "rejected": "451",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "486",
+    "rejected": "462",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "459",
+    "rejected": "497",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "484",
+    "rejected": "458",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "459",
+    "rejected": "476",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "498",
+    "rejected": "478",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "487",
+    "rejected": "481",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "495",
+    "rejected": "493",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "460",
+    "rejected": "468",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "467",
+    "rejected": "451",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "469",
+    "rejected": "455",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "496",
+    "rejected": "497",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "475",
+    "rejected": "476",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "479",
+    "rejected": "451",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "498",
+    "rejected": "457",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "467",
+    "rejected": "452",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "471",
+    "rejected": "458",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "489",
+    "rejected": "455",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "490",
+    "rejected": "464",
+    "reason": "Correct object identification and smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "468",
+    "rejected": "455",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "476",
+    "rejected": "458",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "490",
+    "rejected": "489",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "497",
+    "rejected": "464",
+    "reason": "Correct object identification and smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "481",
+    "rejected": "458",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "497",
+    "rejected": "476",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "476",
+    "rejected": "456",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "497",
+    "rejected": "451",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "454",
+    "rejected": "491",
+    "reason": "Reached the grasp stage.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "490",
+    "rejected": "499",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "468",
+    "rejected": "499",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "failure_failure",
+    "chosen": "464",
+    "rejected": "489",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "463",
+    "rejected": "470",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "484",
+    "rejected": "469",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "466",
+    "rejected": "475",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "488",
+    "rejected": "463",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "488",
+    "rejected": "472",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "480",
+    "rejected": "484",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "460",
+    "rejected": "484",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "492",
+    "rejected": "450",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "469",
+    "rejected": "494",
+    "reason": "More efficient with fewer steps and stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "487",
+    "rejected": "474",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "496",
+    "rejected": "480",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "495",
+    "rejected": "467",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "480",
+    "rejected": "492",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "498",
+    "rejected": "473",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "475",
+    "rejected": "487",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_success",
+    "chosen": "496",
+    "rejected": "467",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_failure",
+    "chosen": "374",
+    "rejected": "383",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_failure",
+    "chosen": "386",
+    "rejected": "353",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_failure",
+    "chosen": "392",
+    "rejected": "357",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_failure",
+    "chosen": "368",
+    "rejected": "359",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_failure",
+    "chosen": "382",
+    "rejected": "357",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_failure",
+    "chosen": "385",
+    "rejected": "378",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_failure",
+    "chosen": "389",
+    "rejected": "357",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_failure",
+    "chosen": "396",
+    "rejected": "353",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "failure_failure",
+    "chosen": "360",
+    "rejected": "353",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "failure_failure",
+    "chosen": "353",
+    "rejected": "383",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "failure_failure",
+    "chosen": "367",
+    "rejected": "357",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "failure_failure",
+    "chosen": "357",
+    "rejected": "363",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "failure_failure",
+    "chosen": "357",
+    "rejected": "360",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "failure_failure",
+    "chosen": "378",
+    "rejected": "359",
+    "reason": "Smoother trajectory and better progress.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "failure_failure",
+    "chosen": "357",
+    "rejected": "383",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "failure_failure",
+    "chosen": "378",
+    "rejected": "363",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "failure_failure",
+    "chosen": "367",
+    "rejected": "359",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "failure_failure",
+    "chosen": "363",
+    "rejected": "353",
+    "reason": "Correct object identification and smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "failure_failure",
+    "chosen": "357",
+    "rejected": "359",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "failure_failure",
+    "chosen": "383",
+    "rejected": "359",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "362",
+    "rejected": "366",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "364",
+    "rejected": "392",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "390",
+    "rejected": "373",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "374",
+    "rejected": "384",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "381",
+    "rejected": "387",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "358",
+    "rejected": "369",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "388",
+    "rejected": "351",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "380",
+    "rejected": "391",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "361",
+    "rejected": "350",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "382",
+    "rejected": "384",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "384",
+    "rejected": "394",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "370",
+    "rejected": "399",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "394",
+    "rejected": "379",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "395",
+    "rejected": "385",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "379",
+    "rejected": "385",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "390",
+    "rejected": "391",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "379",
+    "rejected": "390",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "379",
+    "rejected": "356",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "397",
+    "rejected": "351",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "388",
+    "rejected": "356",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "350",
+    "rejected": "374",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "354",
+    "rejected": "395",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "386",
+    "rejected": "384",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "396",
+    "rejected": "366",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "386",
+    "rejected": "399",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "365",
+    "rejected": "392",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_success",
+    "chosen": "373",
+    "rejected": "354",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_failure",
+    "chosen": "186",
+    "rejected": "177",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "165",
+    "rejected": "154",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "190",
+    "rejected": "184",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "168",
+    "rejected": "192",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "189",
+    "rejected": "167",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "196",
+    "rejected": "167",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "170",
+    "rejected": "183",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "158",
+    "rejected": "179",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "171",
+    "rejected": "186",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "150",
+    "rejected": "155",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "157",
+    "rejected": "155",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "173",
+    "rejected": "164",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "160",
+    "rejected": "154",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "166",
+    "rejected": "155",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "158",
+    "rejected": "161",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "185",
+    "rejected": "181",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "185",
+    "rejected": "186",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "192",
+    "rejected": "193",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "155",
+    "rejected": "193",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "190",
+    "rejected": "198",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "190",
+    "rejected": "156",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "179",
+    "rejected": "181",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "164",
+    "rejected": "163",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "185",
+    "rejected": "183",
+    "reason": "Fewer steps and more efficient movement",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "150",
+    "rejected": "168",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "182",
+    "rejected": "179",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "173",
+    "rejected": "178",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "153",
+    "rejected": "187",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "170",
+    "rejected": "160",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "180",
+    "rejected": "173",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "157",
+    "rejected": "163",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "197",
+    "rejected": "156",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "161",
+    "rejected": "156",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "185",
+    "rejected": "167",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "187",
+    "rejected": "163",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "156",
+    "rejected": "151",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "174",
+    "rejected": "151",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "195",
+    "rejected": "164",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "152",
+    "rejected": "173",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "180",
+    "rejected": "187",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "190",
+    "rejected": "153",
+    "reason": "More efficient with fewer steps and stable placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "171",
+    "rejected": "190",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "194",
+    "rejected": "156",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "173",
+    "rejected": "176",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "169",
+    "rejected": "174",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "172",
+    "rejected": "176",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "154",
+    "rejected": "169",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_failure",
+    "chosen": "102",
+    "rejected": "119",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_failure",
+    "chosen": "131",
+    "rejected": "113",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_failure",
+    "chosen": "114",
+    "rejected": "124",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_failure",
+    "chosen": "135",
+    "rejected": "140",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_failure",
+    "chosen": "137",
+    "rejected": "119",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_failure",
+    "chosen": "141",
+    "rejected": "140",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "148",
+    "rejected": "119",
+    "reason": "Attempted to reach the object.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "113",
+    "rejected": "148",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "113",
+    "rejected": "124",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "124",
+    "rejected": "140",
+    "reason": "Attempted to reach the object.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "124",
+    "rejected": "119",
+    "reason": "Reached a further stage in the task",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "124",
+    "rejected": "148",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "111",
+    "rejected": "140",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "113",
+    "rejected": "140",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "124",
+    "rejected": "111",
+    "reason": "Reached the grasp stage.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "148",
+    "rejected": "140",
+    "reason": "Attempted to grasp the object.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "139",
+    "rejected": "142",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "116",
+    "rejected": "122",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "147",
+    "rejected": "125",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "141",
+    "rejected": "127",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "145",
+    "rejected": "130",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "143",
+    "rejected": "114",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "102",
+    "rejected": "147",
+    "reason": "More efficient with fewer steps",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "142",
+    "rejected": "126",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "107",
+    "rejected": "139",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "135",
+    "rejected": "127",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "130",
+    "rejected": "125",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "122",
+    "rejected": "102",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "142",
+    "rejected": "132",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "115",
+    "rejected": "143",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "103",
+    "rejected": "118",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "128",
+    "rejected": "109",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "101",
+    "rejected": "130",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "134",
+    "rejected": "118",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "132",
+    "rejected": "130",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "138",
+    "rejected": "134",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "120",
+    "rejected": "122",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "134",
+    "rejected": "114",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "118",
+    "rejected": "129",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "126",
+    "rejected": "101",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "130",
+    "rejected": "141",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "104",
+    "rejected": "149",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "127",
+    "rejected": "109",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_success",
+    "chosen": "142",
+    "rejected": "149",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "82",
+    "rejected": "56",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "72",
+    "rejected": "89",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "96",
+    "rejected": "89",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "90",
+    "rejected": "93",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "83",
+    "rejected": "89",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "94",
+    "rejected": "97",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "failure_failure",
+    "chosen": "93",
+    "rejected": "97",
+    "reason": "Correct object identification and smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "failure_failure",
+    "chosen": "85",
+    "rejected": "57",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "failure_failure",
+    "chosen": "56",
+    "rejected": "97",
+    "reason": "Correct object identification and smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "failure_failure",
+    "chosen": "57",
+    "rejected": "56",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "failure_failure",
+    "chosen": "89",
+    "rejected": "97",
+    "reason": "Correct object identification.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "failure_failure",
+    "chosen": "85",
+    "rejected": "89",
+    "reason": "Smoother trajectory and better progress.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "failure_failure",
+    "chosen": "85",
+    "rejected": "97",
+    "reason": "Correct object identification.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "failure_failure",
+    "chosen": "56",
+    "rejected": "89",
+    "reason": "Reached the grasp stage.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "failure_failure",
+    "chosen": "56",
+    "rejected": "93",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "failure_failure",
+    "chosen": "56",
+    "rejected": "85",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "92",
+    "rejected": "51",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "91",
+    "rejected": "66",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "76",
+    "rejected": "79",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "77",
+    "rejected": "95",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "58",
+    "rejected": "63",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "79",
+    "rejected": "99",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "77",
+    "rejected": "88",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "65",
+    "rejected": "84",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "51",
+    "rejected": "71",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "79",
+    "rejected": "67",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "90",
+    "rejected": "61",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "87",
+    "rejected": "52",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "69",
+    "rejected": "92",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "69",
+    "rejected": "55",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "55",
+    "rejected": "79",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "84",
+    "rejected": "82",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "99",
+    "rejected": "54",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "72",
+    "rejected": "87",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "69",
+    "rejected": "98",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "71",
+    "rejected": "77",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "87",
+    "rejected": "67",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "61",
+    "rejected": "69",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "79",
+    "rejected": "91",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "70",
+    "rejected": "65",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "95",
+    "rejected": "54",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "71",
+    "rejected": "73",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_success",
+    "chosen": "64",
+    "rejected": "71",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "339",
+    "rejected": "334",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "317",
+    "rejected": "334",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "305",
+    "rejected": "323",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "336",
+    "rejected": "323",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "failure_failure",
+    "chosen": "334",
+    "rejected": "316",
+    "reason": "Correct object identification and smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "failure_failure",
+    "chosen": "334",
+    "rejected": "347",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "failure_failure",
+    "chosen": "334",
+    "rejected": "323",
+    "reason": "Correct object identification and smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "failure_failure",
+    "chosen": "347",
+    "rejected": "323",
+    "reason": "Correct object identification and smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "failure_failure",
+    "chosen": "323",
+    "rejected": "316",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "346",
+    "rejected": "311",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "331",
+    "rejected": "300",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "346",
+    "rejected": "338",
+    "reason": "Fewer steps and more stable grasp",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "337",
+    "rejected": "324",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "326",
+    "rejected": "325",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "313",
+    "rejected": "348",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "329",
+    "rejected": "304",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "331",
+    "rejected": "348",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "341",
+    "rejected": "318",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "319",
+    "rejected": "322",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "343",
+    "rejected": "305",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "330",
+    "rejected": "307",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "310",
+    "rejected": "335",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "325",
+    "rejected": "346",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "302",
+    "rejected": "325",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "335",
+    "rejected": "328",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "349",
+    "rejected": "340",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "305",
+    "rejected": "329",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "311",
+    "rejected": "328",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "301",
+    "rejected": "309",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "349",
+    "rejected": "303",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "304",
+    "rejected": "342",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "344",
+    "rejected": "333",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "345",
+    "rejected": "342",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "304",
+    "rejected": "311",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "343",
+    "rejected": "307",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "310",
+    "rejected": "342",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "342",
+    "rejected": "335",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "310",
+    "rejected": "329",
+    "reason": "Fewer steps and more stable grasp.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_success",
+    "chosen": "305",
+    "rejected": "311",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_failure",
+    "chosen": "30",
+    "rejected": "8",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_failure",
+    "chosen": "22",
+    "rejected": "16",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_failure",
+    "chosen": "10",
+    "rejected": "13",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_failure",
+    "chosen": "12",
+    "rejected": "47",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_failure",
+    "chosen": "3",
+    "rejected": "35",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_failure",
+    "chosen": "6",
+    "rejected": "13",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_failure",
+    "chosen": "11",
+    "rejected": "13",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "8",
+    "rejected": "19",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "13",
+    "rejected": "47",
+    "reason": "Correct object identification and smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "47",
+    "rejected": "16",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "8",
+    "rejected": "47",
+    "reason": "Correct object identification and smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "13",
+    "rejected": "35",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "13",
+    "rejected": "16",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "19",
+    "rejected": "16",
+    "reason": "Correct object identification.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "7",
+    "rejected": "16",
+    "reason": "Correct object identification.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "8",
+    "rejected": "13",
+    "reason": "Correct object identification and smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "16",
+    "rejected": "35",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "7",
+    "rejected": "35",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "19",
+    "rejected": "47",
+    "reason": "Correct object identification.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "failure_failure",
+    "chosen": "19",
+    "rejected": "35",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "15",
+    "rejected": "44",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "9",
+    "rejected": "4",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "44",
+    "rejected": "5",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "21",
+    "rejected": "11",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "49",
+    "rejected": "46",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "17",
+    "rejected": "28",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "36",
+    "rejected": "28",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "15",
+    "rejected": "31",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "43",
+    "rejected": "29",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "41",
+    "rejected": "1",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "11",
+    "rejected": "44",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "40",
+    "rejected": "43",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "29",
+    "rejected": "6",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "25",
+    "rejected": "4",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "6",
+    "rejected": "17",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "2",
+    "rejected": "44",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "45",
+    "rejected": "38",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "25",
+    "rejected": "26",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "12",
+    "rejected": "0",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "11",
+    "rejected": "28",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "4",
+    "rejected": "15",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "27",
+    "rejected": "14",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "46",
+    "rejected": "12",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "9",
+    "rejected": "21",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "27",
+    "rejected": "20",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "9",
+    "rejected": "41",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "14",
+    "rejected": "22",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_success",
+    "chosen": "36",
+    "rejected": "33",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "405",
+    "rejected": "447",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "423",
+    "rejected": "443",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "440",
+    "rejected": "433",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "421",
+    "rejected": "447",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "449",
+    "rejected": "415",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "420",
+    "rejected": "402",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "407",
+    "rejected": "444",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "413",
+    "rejected": "402",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "436",
+    "rejected": "443",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "417",
+    "rejected": "443",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "409",
+    "rejected": "445",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "410",
+    "rejected": "415",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "449",
+    "rejected": "445",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "445",
+    "rejected": "444",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "404",
+    "rejected": "415",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "447",
+    "rejected": "444",
+    "reason": "Attempted to reach the object.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "429",
+    "rejected": "444",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "442",
+    "rejected": "447",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "427",
+    "rejected": "443",
+    "reason": "Correct object identification.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "445",
+    "rejected": "447",
+    "reason": "Correct object identification and smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "446",
+    "rejected": "447",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "415",
+    "rejected": "446",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "428",
+    "rejected": "443",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "446",
+    "rejected": "443",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "433",
+    "rejected": "447",
+    "reason": "Correct object identification.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "failure_failure",
+    "chosen": "402",
+    "rejected": "444",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "412",
+    "rejected": "406",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "431",
+    "rejected": "419",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "432",
+    "rejected": "408",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "409",
+    "rejected": "441",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "448",
+    "rejected": "405",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "426",
+    "rejected": "420",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "436",
+    "rejected": "401",
+    "reason": "Fewer steps and more stable placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "400",
+    "rejected": "421",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "420",
+    "rejected": "417",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "413",
+    "rejected": "436",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "411",
+    "rejected": "423",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "418",
+    "rejected": "430",
+    "reason": "More stable grasp and placement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "437",
+    "rejected": "420",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "426",
+    "rejected": "439",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "426",
+    "rejected": "412",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "406",
+    "rejected": "420",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "449",
+    "rejected": "413",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "420",
+    "rejected": "422",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "413",
+    "rejected": "422",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "432",
+    "rejected": "425",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "264",
+    "rejected": "280",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "259",
+    "rejected": "285",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "265",
+    "rejected": "252",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "286",
+    "rejected": "269",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "286",
+    "rejected": "276",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "277",
+    "rejected": "290",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "294",
+    "rejected": "266",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "299",
+    "rejected": "295",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "264",
+    "rejected": "258",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "294",
+    "rejected": "261",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "264",
+    "rejected": "256",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "293",
+    "rejected": "272",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "278",
+    "rejected": "251",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "270",
+    "rejected": "250",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "264",
+    "rejected": "272",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "273",
+    "rejected": "290",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "273",
+    "rejected": "253",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "299",
+    "rejected": "261",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "262",
+    "rejected": "279",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_failure",
+    "chosen": "257",
+    "rejected": "269",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "287",
+    "rejected": "280",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "269",
+    "rejected": "268",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "282",
+    "rejected": "253",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "266",
+    "rejected": "292",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "261",
+    "rejected": "295",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "253",
+    "rejected": "269",
+    "reason": "Correct object identification.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "272",
+    "rejected": "295",
+    "reason": "Reached a further stage in the task.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "269",
+    "rejected": "256",
+    "reason": "Smoother trajectory.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "267",
+    "rejected": "295",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "282",
+    "rejected": "263",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "266",
+    "rejected": "250",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "284",
+    "rejected": "250",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "298",
+    "rejected": "280",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "274",
+    "rejected": "287",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "failure_failure",
+    "chosen": "251",
+    "rejected": "290",
+    "reason": "Smoother trajectory",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "262",
+    "rejected": "297",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "297",
+    "rejected": "278",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "265",
+    "rejected": "257",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "262",
+    "rejected": "270",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "275",
+    "rejected": "294",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "293",
+    "rejected": "299",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "255",
+    "rejected": "270",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "275",
+    "rejected": "259",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "289",
+    "rejected": "277",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "262",
+    "rejected": "283",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "277",
+    "rejected": "273",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "291",
+    "rejected": "297",
+    "reason": "More efficient with fewer steps.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "265",
+    "rejected": "278",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "275",
+    "rejected": "286",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it",
+    "pair_type": "success_success",
+    "chosen": "265",
+    "rejected": "255",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_success",
+    "chosen": "150",
+    "rejected": "188",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_success",
+    "chosen": "430",
+    "rejected": "437",
+    "reason": "Fewer steps and more efficient movement.",
+    "model": "gpt-4o"
+}
+{
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo",
+    "pair_type": "success_failure",
+    "chosen": "230",
+    "rejected": "227",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p",
+    "pair_type": "success_failure",
+    "chosen": "498",
+    "rejected": "455",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_failure",
+    "chosen": "380",
+    "rejected": "378",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_failure",
+    "chosen": "366",
+    "rejected": "353",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_o",
+    "pair_type": "success_failure",
+    "chosen": "358",
+    "rejected": "363",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_failure",
+    "chosen": "162",
+    "rejected": "177",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place",
+    "pair_type": "success_failure",
+    "chosen": "181",
+    "rejected": "177",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_failure",
+    "chosen": "130",
+    "rejected": "148",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_failure",
+    "chosen": "102",
+    "rejected": "111",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_failure",
+    "chosen": "142",
+    "rejected": "140",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_failure",
+    "chosen": "117",
+    "rejected": "124",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_failure",
+    "chosen": "105",
+    "rejected": "148",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_from_table_center_and_place",
+    "pair_type": "success_failure",
+    "chosen": "147",
+    "rejected": "113",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "58",
+    "rejected": "89",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "77",
+    "rejected": "57",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "82",
+    "rejected": "89",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "81",
+    "rejected": "85",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "72",
+    "rejected": "56",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "66",
+    "rejected": "85",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_pla",
+    "pair_type": "success_failure",
+    "chosen": "95",
+    "rejected": "97",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "307",
+    "rejected": "323",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "344",
+    "rejected": "334",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "342",
+    "rejected": "334",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "317",
+    "rejected": "323",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "303",
+    "rejected": "316",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "340",
+    "rejected": "323",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "330",
+    "rejected": "347",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "315",
+    "rejected": "323",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "300",
+    "rejected": "334",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "324",
+    "rejected": "334",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_",
+    "pair_type": "success_failure",
+    "chosen": "311",
+    "rejected": "323",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_failure",
+    "chosen": "43",
+    "rejected": "35",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_r",
+    "pair_type": "success_failure",
+    "chosen": "14",
+    "rejected": "16",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "409",
+    "rejected": "428",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "426",
+    "rejected": "415",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}
+{
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place",
+    "pair_type": "success_failure",
+    "chosen": "421",
+    "rejected": "427",
+    "reason": "Deterministic: The chosen trajectory succeeded while the rejected one failed.",
+    "model": "rule_based"
+}

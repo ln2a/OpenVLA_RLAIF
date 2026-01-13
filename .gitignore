@@ -1,0 +1,21 @@
+cat <<EOF > .gitignore
+# 仅拦截巨大的日志和轨迹数据
+experiments/logs/
+LIBERO/
+rollouts/
+datasets/
+
+# 拦截所有 HDF5 文件（无论在哪）
+*.hdf5
+
+# 拦截视频和权重
+*.mp4
+*.pth
+*.ckpt
+
+# 基础忽略
+__pycache__/
+*.log
+nohup.out
+.ipynb_checkpoints/
+EOFREADME.md
